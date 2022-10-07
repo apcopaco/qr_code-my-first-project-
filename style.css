@@ -1,0 +1,49 @@
+body {
+    background-color: #d5e1ef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+  }
+
+  div {
+    width: 320px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    overflow: hidden;
+    height: 497px;
+    padding: 16px;
+    margin: auto;
+  }
+
+  h1 {
+    font-family: Outfit;
+    font-style: normal;
+    font-size: 22px;
+    font-weight: bold;
+    color: #1f314f;
+    text-align: center;
+    max-height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+
+
+  p {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #7d889e;
+    text-align: center;
+  }
+
+
+
+ 
